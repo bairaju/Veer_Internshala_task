@@ -1,0 +1,4 @@
+Opencv
+Pytorch
+anaconda
+facenet-pytorch
